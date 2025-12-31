@@ -1,10 +1,13 @@
 # LEGO Set Explorer Dashboard
 
-An interactive Power BI dashboard designed to help users explore and analyze a comprehensive dataset of 4,386 LEGO sets released from 1970 to 2022. This project demonstrates advanced data visualization techniques and interactive dashboard design to uncover insights about product evolution, pricing strategies, and market segmentation within the LEGO product portfolio.
+**Need a LEGO set but can't seem to decide?** 
+
+I got you covered with an interactive Power BI dashboard designed to help you explore and analyze a comprehensive dataset of _**4,386** LEGO sets released from 1970 to 2022_. This project demonstrates advanced data visualization techniques and interactive dashboard design to uncover insights about product evolution, pricing strategies, and market segmentation within the LEGO product portfolio.
 
 ## 📊 Project Overview
 
 The LEGO Set Explorer Dashboard transforms a complex dataset of thousands of sets into an intuitive, interactive exploration tool. Users can filter and analyze sets by theme, age range, price point, and complexity, with visual feedback and detailed set information displayed in real-time.
+![Dashboard Preview](files/dashboard1.png)
 
 **Dataset Size:** 4,386 LEGO sets  
 **Time Period:** 1970–2022  
@@ -79,17 +82,6 @@ lego-set-explorer/
 
 **lego_selection.pbix:** The complete Power BI dashboard file containing all data connections, transformations, visualizations, and interactivity
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Microsoft Power BI Desktop (latest version recommended)
-- Windows 10 or later
-
-### Setup Instructions
-1. Clone this repository or download the project files
-2. Open `files/lego_selection.pbix` in Power BI Desktop
-3. Allow Power BI to load the embedded data connections
-4. The dashboard is ready to explore immediately
 
 ### How to Use the Dashboard
 1. **Filter by Theme Group:** Use the dropdown to select Normal or Licensed theme categories
@@ -102,12 +94,12 @@ lego-set-explorer/
 ## 📊 Dashboard Screenshots
 
 **Main Exploration Interface:**
-![Dashboard Overview - LEGO Selection](files/dashboard1.jpg)
+![Dashboard Overview - LEGO Selection](files/dashboard1.png)
 
 The main dashboard provides an at-a-glance view of key metrics, comprehensive filtering options, and detailed set information with hover-over image previews.
 
 **Hierarchical Analysis View:**
-![Dashboard Analytics - Explore Sets](files/dashboard2.jpg)
+![Dashboard Analytics - Explore Sets](files/dashboard2.png)
 
 The exploration page features a decomposition tree visualization, enabling users to drill down through categories, theme groups, and individual themes while tracking set distribution.
 
@@ -132,7 +124,7 @@ This project developed proficiency in:
 
 - [Maven Analytics](https://mavenanalytics.io/)
 - [Power BI Documentation](https://learn.microsoft.com/en-us/power-bi/)
-- [LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- [LinkedIn Profile](https://www.linkedin.com/in/abhinav-d-b713b2214/))
 
 ## 📝 Notes
 
