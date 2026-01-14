@@ -7,6 +7,7 @@ I got you covered with an interactive Power BI dashboard designed to help you ex
 ## 📊 Project Overview
 
 The LEGO Set Explorer Dashboard transforms a complex dataset of thousands of sets into an intuitive, interactive exploration tool. Users can filter and analyze sets by theme, age range, price point, and complexity, with visual feedback and detailed set information displayed in real-time.
+
 ![Dashboard Preview](files/dashboard.gif)
 
 **Dataset Size:** 4,386 LEGO sets  
